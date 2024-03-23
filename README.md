@@ -1,8 +1,16 @@
 # Generation EVM-addresses
 
-Generates: Adress + Private key + Mnemonic
+Generates: 
+- Adress
+- Private key
+- Mnemonic
 
-Telagram Channel: [@mendel_crypto] 
+*In the console, you need to enter the number of addresses that you want to generate.*
+
+
+
+
+Telagram: [@mendel_crypto] 
 
 [//]: # 
  [@mendel_crypto]: <https://github.com/joemccann/dillinger>
