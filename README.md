@@ -10,7 +10,7 @@ Generates:
 
 
 
-Telagram: [@mendel_crypto] 
+
 
 
   
