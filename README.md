@@ -12,6 +12,5 @@ Generates:
 
 Telagram: [@mendel_crypto] 
 
-[//]: # 
- [@mendel_crypto]: -
+
   
